@@ -1,0 +1,64 @@
+.wrapper {
+    margin: 20px;
+    width: 780px;
+}
+
+.title {
+    padding-top: 2px;
+    font-stretch: expanded;
+    font-family: 'Open Sans', sans-serif;
+    font-weight: bold;
+    font-size: 40px;
+}
+
+.subtitle {
+    font-size: 14pt;
+    font-family: 'Roboto', sans-serif;
+}
+
+.section {
+
+}
+
+.quotation {
+    background: #FFFDE0;
+    font-family: 'IBM Plex Serif', serif;
+    font-style: italic;
+    padding-left: 5%;
+    padding-right: 5%;
+    padding-bottom: 2%;
+    padding-top: 2%;
+    font-size: 16pt;
+}
+
+.quotation-boarder {
+    border-left-style: solid;
+    border-left-width: 8px;
+    border-left-color: #EB3513;
+}
+
+.author {
+    font-family: 'Roboto', sans-serif;
+    font-style: italic;
+    color: #751324;
+    font-size: 18pt;
+    text-align: right;
+}
+
+.text-block {
+
+}
+
+.note {
+    background: #E8D229;
+}
+
+.note-text {
+    padding: 20px;
+    font-family: 'Source Code Pro', monospace;
+    font-size: 0.8em;
+}
+
+p {
+    font-family: 'Roboto', sans-serif;
+}
